@@ -44,11 +44,11 @@
 
 
 ## Social Activity
-<a href="https://discord.com/users/690104547083157563"><img src="https://lanyard.cnrad.dev/api/690104547083157563" alt="Discord Presence"></a>
+
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=317lvyjb73g72kb5u3xqf5gruoti&count=3" alt="Spotify recently played"></br>
 
 
-
+![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
 
 
 
