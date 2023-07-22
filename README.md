@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AutoCrypto](https://github.com/iamitsinghchouhan/AutoCrypto)
+- 🔭 I’m currently working on [MERN Stack](https://github.com/iamitsinghchouhan/Dot)
 
-- 🌱 I’m currently learning **Data Analytics, React, Tailwind CSS, Python, Data Structures**
+- 🌱 I’m currently learning ** React, Tailwind CSS, Python, Data Structures**
 
-- 👯 I’m looking to collaborate on [AutoCrypto](https://github.com/iamitsinghchouhan/AutoCrypto)
+- 👯 I’m looking to collaborate on [Web Development](https://github.com/iamitsinghchouhan/AutoCrypto)
 
-- 🤝 I’m looking for help with [Covid-Analysis](https://github.com/iamitsinghchouhan/Covid-Analysis)
+- 🤝 I’m looking for help with [NodeJS](https://github.com/iamitsinghchouhan/Covid-Analysis)
 
 - 💬 Ask me about **Python, C++, JavaScript, CSS**
 
